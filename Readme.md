@@ -1,7 +1,5 @@
 <img src="http://rubix.network/assets/images/Ruoix-logo.png" alt="Rubix" style="text-align:center; display:block; margin-left:auto; margin-right:auto; width:50%">
  
- <button style="background-color: grey; color: white; font: Calibri; font-size: 10px; border: 1px solid grey; border-radius: 5px; font-weight: BOLD;"type="button" name="License"> License</button><button style="background-color: green; color: white; font: Calibri; font-size: 10px; border: 1px solid green; border-radius: 5px; font-weight: BOLD;"type="button" name="Apache 2.0">Apache 2.0</button>
-
 # Rubix - ProofChain
 
 A deterministic state-machine that is designed to address the scale, cost, and privacy shortcomings of blockchain protocols that rely on one sequentially organized chain of all global transactions. The global state-machine is divided into finite number of state-machines called ProofChains. While each ProofChain maintains one state, together all ProofChains represent a globally accessible singleton state that is immutable. 
