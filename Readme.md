@@ -62,8 +62,3 @@ This Project is currently developed in Java. Multi-Language support will be avai
     After installing IPFS from the above link, go to [Rubix-IPFS](https://www.docs.rubix.network/setupprivateipfs) to setup Rubix Private IPFS.
 3. Install [Java-Rubix]()
 
-
-# License
-
-[Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)
-
