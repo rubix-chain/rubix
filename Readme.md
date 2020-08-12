@@ -47,5 +47,6 @@ This Project is currently developed in Java. Multi-Language support will be avai
 
 # Specs and Papers
 
-Specifications of Rubix - [specs]()
-Biege Paper - [paper]()
+* Specifications of Rubix - [specs]()
+
+* Biege Paper - [paper]()
