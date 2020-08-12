@@ -45,4 +45,7 @@ This Project is currently developed in Java. Multi-Language support will be avai
 | Kotlin              | https://github.com/rubixchain/kotlin-rubix-api | Available Soon |
 | Go                  | https://github.com/rubixchain/go-rubix-api | Available Soon |
 
+# Specs and Papers
 
+Specifications of Rubix - [specs]()
+Biege Paper - [paper]()
